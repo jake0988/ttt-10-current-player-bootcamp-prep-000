@@ -1,0 +1,6 @@
+def turn_count(boards)
+  count = 0
+boards.each |board| do
+  count += 1
+end
+end
