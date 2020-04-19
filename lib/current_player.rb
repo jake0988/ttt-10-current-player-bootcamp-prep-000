@@ -4,5 +4,6 @@ boards.each do |board|
   if (board == "X" || board == "O")
   count += 1
 end
+end
 count
 end
