@@ -3,4 +3,5 @@ def turn_count(boards)
 boards.each do
   count += 1
 end
+count
 end
