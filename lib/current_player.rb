@@ -9,7 +9,7 @@ def turn_count(boards)
 end
 
 
-def current_player
+def current_player(count)
   if(count % 2 == 0)
     "X"
   else
